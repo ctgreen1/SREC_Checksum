@@ -15,7 +15,7 @@ def calculate_checksum(hex_string):
 
 # Example usage:
 hex_input = "14012210003093E53C3083E20020A0E3002083E5"
-print(calculate_checksum(hex_input))  # Should output 0x14
+print(calculate_checksum(hex_input))
 
 
 
